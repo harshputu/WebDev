@@ -1,0 +1,36 @@
+*{  letter-spacing: 2px;
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-image: url(bg-image-wa.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.circle{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+    box-shadow: 0 0 35px 5px grey,0 0 35px 10px grey inset
+  
+}
+.c1{
+    border-radius: 10px;
+    box-shadow: 0 0 7px 2px white,0 0 7px 2px white inset;
+}
+hr{
+    height: 10px;
+}
+P{
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+.ver{
+    border-left: 1px solid white;
+            height: 250px;
+            left: 25%;
+            width: 1px;
+}
