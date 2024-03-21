@@ -35,4 +35,6 @@ if(eleArr.indexOf(checkEle)!=-1){
 }
 else{
     console.log("Not Exists");
+
+    
 }
